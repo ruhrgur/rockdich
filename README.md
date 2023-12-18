@@ -1,4 +1,4 @@
-# RockDick.txt
+# RockDich.txt
 This is a German version of the rockyou.txt wordlist, including common Passwords in Germany, German Nouns and over one million Passwords commonly found in password leaks.
 
 ## Disclaimer
